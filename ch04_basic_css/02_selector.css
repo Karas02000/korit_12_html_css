@@ -1,0 +1,34 @@
+* {
+    font-weight: bold;
+    color: darkorange;
+}
+
+* {
+    color: plum;
+}
+
+/*태그 선택자*/
+
+p {
+    color: olivedrab
+}
+
+.blue {
+    color: lightblue;
+}
+
+p.blue {
+    color: aqua;
+}
+/* 다른 선택자에 이어붙이는 것이 가능합니다. (다른 태그, 다른 클래스 등)*/
+.blue.dark {
+    color: mediumblue;
+}
+
+p.blue.dark {
+    color: darkblue;
+}
+
+#red {
+    color: tomato;
+}

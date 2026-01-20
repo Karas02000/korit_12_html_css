@@ -1,0 +1,15 @@
+div {
+    display: inline-block;
+    background-color: orangered;
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+
+    border-top: solid 8px #000000;
+    border-bottom: dashed 0.5em #ffffff;
+    border-right: dotted 4px #0000ff;
+    border-left: double 12px #00ff00;
+}
+p {
+    text-align: end;
+}

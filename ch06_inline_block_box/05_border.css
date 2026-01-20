@@ -1,0 +1,7 @@
+/* li:not(:last-child) {
+    text-decoration: underline;
+} */
+
+li:not(:first-child) {
+    text-decoration: overline;
+}

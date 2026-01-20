@@ -1,0 +1,10 @@
+p {
+    background-color: lemonchiffon;
+    margin: 24px;
+    padding: 24px;
+}
+
+p.special {
+    margin: 12px;
+    padding: 0px;;
+}

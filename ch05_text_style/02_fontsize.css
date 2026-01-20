@@ -1,0 +1,11 @@
+html {
+    font-size: 15px;
+}
+
+div {
+    font-size: 1.4em;
+}
+
+div div {
+    font-size: 2rem;
+}

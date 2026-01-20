@@ -1,3 +1,11 @@
+* {
+    font-size: 30px;
+    text-transform: underline;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    font-style: italic;
+}
+
 .R {
     color: #ff0000;
 }
@@ -6,13 +14,4 @@
 }
 .B {
     color:#0000ff;
-}
-.M {
-    color: magenta;
-}
-.Y {
-    color: yellow;
-}
-.C {
-    color: cyan;
 }

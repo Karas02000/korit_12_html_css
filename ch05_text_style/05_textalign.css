@@ -1,0 +1,10 @@
+html {
+    font-size: 12px;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.5em;
+    letter-spacing: 1em;
+    word-spacing: 2em;
+}

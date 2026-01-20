@@ -1,0 +1,10 @@
+p {
+    text-shadow:
+    1px 0 red,-1px 0 red,0 1px red,0 -1px red,
+    2px 0 orange,-2px 0 orange,0 2px orange,0 -2px orange,
+    3px 0 yellow,-3px 0 yellow,0 3px yellow,0 -3px yellow,
+    4px 0 green,-4px 0 green,0 4px green,0 -4px green,
+    5px 0 blue,-5px 0 blue,0 5px blue,0 -5px blue,
+    6px 0 indigo,-6px 0 indigo,0 6px indigo,0 -6px indigo,
+    7px 0 violet,-7px 0 violet,0 7px violet,0 -7px violet;
+}

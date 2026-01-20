@@ -1,0 +1,11 @@
+ol > li:nth-child(4) {
+    text-decoration: line-through;
+}
+
+.dark {
+    text-decoration: overline;
+}
+
+#movie {
+    text-decoration: underline;
+}

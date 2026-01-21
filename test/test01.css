@@ -26,6 +26,7 @@ background-color: black;
     flex-direction: row;
     justify-content: center;
     flex-wrap: wrap;
+    order: shuffle;
 }
 .second {
     background-color: green;

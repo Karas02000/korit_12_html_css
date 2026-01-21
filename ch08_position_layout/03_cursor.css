@@ -1,0 +1,10 @@
+div {
+    background-color: aqua;
+    /* cursor: pointer;
+    cursor: default;
+    cursor: auto;
+    cursor: none;
+    cursor: zoom-in;
+    cursor: zoom-out; */
+    cursor: not-allowed;
+}

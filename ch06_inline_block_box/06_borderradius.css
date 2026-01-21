@@ -1,0 +1,19 @@
+circle {
+    border: 5px solid #000;
+    border-radius: 50%;
+    box-sizing: border-box;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    background-color: #eee;
+}
+
+box {
+    border: 5px solid #000;
+    border-radius: 50em;
+    box-sizing: border-box;
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+    background-color: #eee;
+}

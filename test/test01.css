@@ -17,3 +17,20 @@
     color:#0000ff;
     background-color: #000000;
 }
+
+.first {
+background-color: black;
+    width: auto;
+    height: auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.second {
+    background-color: green;
+    width: 30px;
+    height: 30px;
+    margin: 5px;
+    text-align: center;
+}

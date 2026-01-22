@@ -1,0 +1,13 @@
+@import url(./common.css);
+
+.not-good {
+    text-decoration: var(--not-good);
+}
+
+.wrong {
+    text-decoration: var(--wrong);
+}
+
+u {
+    background-color: var(--warn);
+}
